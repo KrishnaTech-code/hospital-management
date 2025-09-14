@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Hospital Management Dashboard",
+  "description": "A comprehensive and responsive hospital management dashboard built with React and Tailwind CSS. It features patient and appointment management, and an AI-powered assistant for data queries using the Gemini API.",
+  "requestFramePermissions": []
+}
