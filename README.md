@@ -30,9 +30,3 @@ This system reduces paperwork, minimizes human error, and supports faster decisi
   - Data-driven insights for decision-making and hospital performance monitoring.  
 
 ---
-
-## 🛠️ Tech Stack
-- **Programming Language:** Java  
-- **Database:** MySQL / Oracle (choose whichever you used)  
-- **Frontend (if any):** JSP / Swing / JavaFX  
-- **Tools:** Eclipse / IntelliJ IDEA / NetBeans  
