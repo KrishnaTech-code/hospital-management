@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Hospital Management System (HMS)
 
-# Run and deploy your AI Studio app
+## 📌 Project Overview
+The **Hospital Management System (HMS)** is a Java-based application designed to streamline hospital operations and improve patient care.  
+It provides a centralized platform for managing patients, doctors, staff, appointments, billing, pharmacy, laboratory, and reporting.  
+This system reduces paperwork, minimizes human error, and supports faster decision-making.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/120U0uKnDmTlxCjfBain1lwx85A3soOwl
+## 🚀 Key Features
+- **Patient Management**  
+  - Registration, admissions, medical history tracking, and outpatient follow-ups.  
 
-## Run Locally
+- **Doctor & Staff Management**  
+  - Maintain staff profiles, duty schedules, and performance records.  
 
-**Prerequisites:**  Node.js
+- **Appointment & Scheduling**  
+  - Online booking, calendar view, and automated reminders.  
 
+- **Billing & Finance**  
+  - Hassle-free payment processing, insurance claim handling, and financial reporting.  
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Pharmacy & Laboratory Integration**  
+  - Prescription handling, inventory control, and diagnostic test linking.  
+
+- **Telemedicine Support**  
+  - Remote consultations and digital prescription management.  
+
+- **Advanced Reporting & Analytics**  
+  - Data-driven insights for decision-making and hospital performance monitoring.  
+
+---
+
+## 🛠️ Tech Stack
+- **Programming Language:** Java  
+- **Database:** MySQL / Oracle (choose whichever you used)  
+- **Frontend (if any):** JSP / Swing / JavaFX  
+- **Tools:** Eclipse / IntelliJ IDEA / NetBeans  
